@@ -1,1 +1,1 @@
-# Blackeye
+# bash Blackeye.sh
